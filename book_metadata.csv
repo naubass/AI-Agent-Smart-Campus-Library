@@ -1,0 +1,301 @@
+book_id,title,author,category,subcategory,publication_year
+1000,Exploring Society,Rina Gunawan,Fiksi,Novel,1991
+1001,The World of Engineering,Kiki Setiawan,Seni,Musik,1995
+1002,The History of Invention,Citra Wijaya,Sains,Fisika,2004
+1003,The Art of Programming,Umar Lestari,Teknologi,Pemrograman,2005
+1004,Mastering Biology,Gita Prasetyo,Historis,Sejarah Dunia,2010
+1005,The Science of Quantum Mechanics,Eka Fauzi,Historis,Sejarah Lokal,2021
+1006,A Journey through the Jungle,Kiki Setiawan,Fiksi,Novel,2008
+1007,The Science of Evolution,Putri Santoso,Sains,Kimia,1997
+1008,The Art of Cooking,Rina Gunawan,Teknologi,Keamanan Siber,2017
+1009,The Art of Cooking,Tina Kurniawan,Historis,Sejarah Lokal,2004
+1010,The Great Adventure,Sari Kusuma,Seni,Musik,2020
+1011,Mastering Chemistry,Maya Saputra,Historis,Sejarah Dunia,1996
+1012,The Art of Writing,Budi Kurniawan,Historis,Biografi,1990
+1013,Understanding Courage,Oka Wibowo,Fiksi,Cerita Pendek,2017
+1014,Understanding Love,Rina Pratama,Seni,Fotografi,2001
+1015,The Art of Painting,Indah Ramadhan,Fiksi,Novel,1998
+1016,The History of Discovery,Lina Wibowo,Teknologi,AI,2000
+1017,The Future of VR,Umar Sari,Sains,Biologi,2011
+1018,Exploring Society,Indah Lestari,Historis,Sejarah Lokal,2018
+1019,The World of Medicine,Lina Wijaya,Seni,Fotografi,2012
+1020,The Art of Writing,Nina Hidayat,Historis,Sejarah Lokal,2007
+1021,A Journey through the Jungle,Gita Ramadhan,Historis,Sejarah Lokal,2011
+1022,Exploring Technology,Umar Putra,Teknologi,Pemrograman,2012
+1023,The Future of IoT,Citra Saputra,Teknologi,AI,2010
+1024,The World of Engineering,Maya Kurniawan,Fiksi,Drama,1990
+1025,The Art of Cooking,Rina Gunawan,Teknologi,Keamanan Siber,2011
+1026,Exploring Nature,Maya Halim,Fiksi,Cerita Pendek,2015
+1027,The Great Art,Rina Kurniawan,Historis,Biografi,2010
+1028,The World of Astronomy,Citra Wibowo,Sains,Matematika,2005
+1029,The History of Revolution,Kiki Kurniawan,Teknologi,Keamanan Siber,2019
+1030,The Art of Cooking,Putri Hidayat,Sains,Fisika,2007
+1031,The Modern Science,Eka Sukma,Sains,Matematika,2001
+1032,Mastering Chemistry,Agus Kurniawan,Fiksi,Drama,1993
+1033,A Journey through the Universe,Oka Nugroho,Teknologi,Jaringan,2013
+1034,The Future of Blockchain,Dewi Wibowo,Historis,Sejarah Lokal,1997
+1035,The History of Invention,Oka Kusuma,Seni,Seni Rupa,2017
+1036,The World of Astronomy,Hadi Sukma,Historis,Sejarah Lokal,2014
+1037,The Science of Relativity,Citra Hidayat,Teknologi,Pemrograman,2016
+1038,The Science of Relativity,Sari Fauzi,Sains,Kimia,2012
+1039,The History of Revolution,Gita Halim,Sains,Biologi,2007
+1040,A Journey through the Universe,Sari Wibowo,Seni,Teater,1998
+1041,The Innovative Science,Citra Ramadhan,Sains,Fisika,2021
+1042,Understanding Love,Joko Prasetyo,Fiksi,Novel,2017
+1043,The Future of AI,Nina Sukma,Teknologi,Pemrograman,2020
+1044,The Art of Writing,Indah Kusuma,Teknologi,Pemrograman,1994
+1045,Exploring Society,Citra Gunawan,Fiksi,Cerita Pendek,1992
+1046,The Future of VR,Fajar Prasetyo,Sains,Biologi,2017
+1047,The Science of Quantum Mechanics,Sari Wijaya,Sains,Fisika,2019
+1048,Exploring Society,Budi Sari,Fiksi,Drama,2007
+1049,Exploring Nature,Dewi Sukma,Seni,Musik,1997
+1050,Exploring Nature,Citra Nugroho,Historis,Sejarah Dunia,2016
+1051,The Ancient Science,Gita Hidayat,Teknologi,Keamanan Siber,2014
+1052,The Ancient Art,Dewi Fauzi,Historis,Sejarah Dunia,2019
+1053,Mastering Biology,Sari Wijaya,Fiksi,Cerita Pendek,1994
+1054,Exploring Society,Budi Wibowo,Historis,Sejarah Lokal,2012
+1055,Understanding Courage,Hadi Sukma,Teknologi,AI,2006
+1056,The Modern Science,Gita Ramadhan,Sains,Biologi,2020
+1057,Mastering Mathematics,Hadi Gunawan,Fiksi,Cerita Pendek,2012
+1058,The Art of Painting,Joko Saputra,Historis,Sejarah Lokal,2016
+1059,Understanding Courage,Eka Hidayat,Historis,Biografi,2015
+1060,A Journey through the City,Putri Santoso,Seni,Teater,2010
+1061,A Journey through the Jungle,Hadi Kurniawan,Seni,Musik,1998
+1062,The History of Invention,Oka Sukma,Sains,Matematika,2005
+1063,The History of War,Budi Saputra,Teknologi,Pemrograman,2005
+1064,The Art of Writing,Sari Nugroho,Historis,Sejarah Lokal,2001
+1065,Understanding Wisdom,Citra Halim,Fiksi,Novel,2018
+1066,The Science of Quantum Mechanics,Putri Sukma,Teknologi,Pemrograman,1994
+1067,The Future of AI,Sari Sari,Fiksi,Drama,2017
+1068,Mastering Biology,Putri Pratama,Sains,Kimia,1995
+1069,Mastering Biology,Umar Wibowo,Fiksi,Novel,2012
+1070,Understanding Wisdom,Agus Lestari,Fiksi,Cerita Pendek,2007
+1071,The History of War,Oka Saputra,Teknologi,Keamanan Siber,2000
+1072,The History of War,Putri Gunawan,Teknologi,Keamanan Siber,2018
+1073,The Art of Painting,Umar Wijaya,Sains,Biologi,1990
+1074,The Art of Painting,Sari Hidayat,Historis,Sejarah Dunia,2022
+1075,A Journey through the Jungle,Dewi Ramadhan,Seni,Teater,1991
+1076,The Future of VR,Kiki Hidayat,Teknologi,Jaringan,2011
+1077,The World of Astronomy,Fajar Gunawan,Historis,Biografi,1999
+1078,The Science of Quantum Mechanics,Indah Prasetyo,Fiksi,Cerita Pendek,1993
+1079,Exploring Culture,Oka Prasetyo,Teknologi,Pemrograman,2002
+1080,The World of Ecology,Rina Fauzi,Teknologi,AI,2000
+1081,Exploring Technology,Umar Kusuma,Teknologi,Keamanan Siber,2011
+1082,The History of Discovery,Agus Yulianto,Fiksi,Cerita Pendek,2009
+1083,The History of Discovery,Umar Ramadhan,Historis,Biografi,1999
+1084,The Future of Blockchain,Joko Halim,Historis,Biografi,2002
+1085,The Science of Quantum Mechanics,Rina Setiawan,Teknologi,AI,2008
+1086,Exploring Nature,Maya Fauzi,Fiksi,Cerita Pendek,2013
+1087,A Journey through the World,Eka Halim,Historis,Sejarah Dunia,2018
+1088,A Journey through the Universe,Hadi Putra,Seni,Seni Rupa,2019
+1089,The Science of Relativity,Fajar Pratama,Fiksi,Novel,2023
+1090,The World of Medicine,Citra Yulianto,Teknologi,Pemrograman,2005
+1091,Understanding Courage,Joko Sari,Fiksi,Drama,1992
+1092,The History of Revolution,Indah Setiawan,Historis,Biografi,2013
+1093,The Science of Quantum Mechanics,Umar Lestari,Sains,Matematika,2008
+1094,A Journey through the City,Umar Putra,Teknologi,Pemrograman,2007
+1095,Mastering Physics,Lina Ramadhan,Fiksi,Novel,1992
+1096,The Science of Relativity,Agus Lestari,Seni,Musik,2021
+1097,The World of Engineering,Oka Lestari,Seni,Fotografi,2018
+1098,The History of Discovery,Hadi Halim,Fiksi,Drama,1991
+1099,The Science of Quantum Mechanics,Kiki Pratama,Teknologi,Keamanan Siber,2018
+1100,Understanding Courage,Kiki Hidayat,Sains,Biologi,2012
+1101,A Journey through the City,Agus Pratama,Seni,Teater,1992
+1102,The Art of Programming,Citra Wijaya,Seni,Teater,2000
+1103,The Science of Evolution,Kiki Hidayat,Sains,Matematika,2019
+1104,The Science of Evolution,Gita Lestari,Fiksi,Drama,2021
+1105,The Science of Relativity,Joko Halim,Seni,Fotografi,2020
+1106,A Journey through the City,Sari Wibowo,Teknologi,Pemrograman,1994
+1107,The World of Engineering,Umar Fauzi,Sains,Matematika,2015
+1108,The Great Mystery,Umar Wibowo,Seni,Seni Rupa,2011
+1109,The Future of VR,Tina Prasetyo,Seni,Fotografi,2004
+1110,Understanding Courage,Nina Kusuma,Fiksi,Puisi,2016
+1111,The World of Engineering,Sari Saputra,Historis,Sejarah Dunia,2012
+1112,The Art of Programming,Sari Nugroho,Teknologi,AI,2008
+1113,Mastering Chemistry,Gita Kurniawan,Fiksi,Puisi,2007
+1114,Understanding Courage,Putri Setiawan,Seni,Teater,1998
+1115,Mastering Mathematics,Nina Lestari,Fiksi,Cerita Pendek,1992
+1116,Understanding Wisdom,Indah Sari,Sains,Matematika,1997
+1117,The Science of Quantum Mechanics,Maya Setiawan,Teknologi,Jaringan,2001
+1118,The History of Discovery,Lina Hidayat,Historis,Sejarah Dunia,1993
+1119,Exploring Culture,Oka Gunawan,Fiksi,Puisi,2013
+1120,The World of Engineering,Kiki Fauzi,Sains,Matematika,2018
+1121,The Future of VR,Agus Ramadhan,Fiksi,Cerita Pendek,2006
+1122,The Future of IoT,Fajar Kusuma,Fiksi,Cerita Pendek,2016
+1123,The Science of Evolution,Agus Wibowo,Teknologi,AI,2019
+1124,The World of Medicine,Umar Santoso,Seni,Fotografi,2005
+1125,A Journey through the Jungle,Eka Fauzi,Historis,Biografi,2008
+1126,The Future of AI,Sari Prasetyo,Historis,Sejarah Lokal,2001
+1127,The Ancient Art,Hadi Wibowo,Sains,Matematika,1999
+1128,The World of Ecology,Citra Kurniawan,Sains,Fisika,2002
+1129,Mastering Physics,Gita Sari,Fiksi,Drama,1997
+1130,The Future of VR,Rina Halim,Sains,Kimia,2019
+1131,The History of Revolution,Eka Sari,Fiksi,Puisi,2011
+1132,The Future of Blockchain,Sari Halim,Historis,Sejarah Dunia,2001
+1133,The World of Medicine,Rina Sukma,Seni,Seni Rupa,2013
+1134,The Science of Quantum Mechanics,Dewi Fauzi,Fiksi,Puisi,1999
+1135,The Future of Blockchain,Joko Pratama,Historis,Biografi,1992
+1136,Mastering Chemistry,Rina Wijaya,Fiksi,Puisi,2004
+1137,The Future of Blockchain,Maya Pratama,Historis,Sejarah Lokal,2009
+1138,The Art of Writing,Citra Saputra,Historis,Sejarah Lokal,2015
+1139,Exploring Society,Citra Pratama,Teknologi,Pemrograman,2007
+1140,Understanding Love,Eka Pratama,Historis,Sejarah Dunia,2001
+1141,The World of Ecology,Joko Putra,Sains,Matematika,2014
+1142,The Future of AI,Fajar Putra,Fiksi,Cerita Pendek,2007
+1143,The Science of Evolution,Maya Saputra,Sains,Biologi,2014
+1144,The History of Invention,Joko Halim,Teknologi,AI,2005
+1145,Exploring Technology,Nina Halim,Teknologi,AI,1998
+1146,Exploring Society,Dewi Hidayat,Teknologi,Jaringan,2012
+1147,The Future of Blockchain,Oka Yulianto,Historis,Sejarah Lokal,2015
+1148,The History of War,Oka Sari,Sains,Kimia,2023
+1149,The Science of Gravity,Fajar Hidayat,Sains,Biologi,2023
+1150,Understanding Power,Umar Sari,Historis,Sejarah Lokal,2018
+1151,Mastering Biology,Dewi Nugroho,Seni,Fotografi,2021
+1152,The Future of Blockchain,Kiki Setiawan,Seni,Teater,2005
+1153,Understanding Power,Putri Wibowo,Teknologi,Pemrograman,1998
+1154,The Science of Quantum Mechanics,Nina Sukma,Historis,Sejarah Dunia,2021
+1155,The Future of AI,Tina Setiawan,Historis,Biografi,2007
+1156,The World of Astronomy,Citra Sukma,Seni,Teater,1997
+1157,The Future of Blockchain,Kiki Wibowo,Historis,Biografi,2008
+1158,The World of Astronomy,Maya Halim,Seni,Teater,1999
+1159,Mastering Chemistry,Citra Sukma,Seni,Teater,2012
+1160,The Art of Programming,Budi Setiawan,Fiksi,Puisi,2019
+1161,Understanding Power,Indah Pratama,Fiksi,Novel,2013
+1162,Mastering Chemistry,Rina Sukma,Historis,Biografi,1990
+1163,A Journey through the Jungle,Joko Kusuma,Fiksi,Drama,2014
+1164,Understanding Courage,Citra Setiawan,Historis,Sejarah Lokal,1998
+1165,The History of Revolution,Rina Gunawan,Fiksi,Puisi,2022
+1166,Mastering Chemistry,Kiki Kusuma,Historis,Sejarah Lokal,2014
+1167,The History of War,Maya Fauzi,Seni,Fotografi,2008
+1168,Mastering Physics,Tina Pratama,Seni,Fotografi,2009
+1169,The Mysterious Adventure,Agus Lestari,Sains,Kimia,2021
+1170,Understanding Love,Putri Sukma,Teknologi,Keamanan Siber,2022
+1171,The Science of Gravity,Hadi Wijaya,Teknologi,Pemrograman,2020
+1172,Understanding Courage,Dewi Fauzi,Teknologi,AI,1993
+1173,The World of Medicine,Gita Wibowo,Historis,Biografi,2009
+1174,The Science of Gravity,Agus Saputra,Seni,Musik,1990
+1175,A Journey through the Universe,Rina Putra,Sains,Biologi,2013
+1176,The Future of VR,Kiki Ramadhan,Sains,Fisika,2010
+1177,Exploring Nature,Nina Setiawan,Teknologi,AI,2012
+1178,Exploring Culture,Hadi Yulianto,Historis,Sejarah Dunia,2015
+1179,Exploring Nature,Agus Wijaya,Seni,Seni Rupa,2004
+1180,Mastering Chemistry,Dewi Wijaya,Historis,Biografi,2019
+1181,The Future of VR,Indah Sukma,Fiksi,Cerita Pendek,1999
+1182,Exploring Culture,Sari Santoso,Fiksi,Cerita Pendek,2014
+1183,The World of Medicine,Budi Halim,Teknologi,AI,2023
+1184,Understanding Wisdom,Tina Saputra,Teknologi,Jaringan,2012
+1185,The History of Revolution,Hadi Gunawan,Seni,Seni Rupa,2004
+1186,The Ancient History,Dewi Fauzi,Fiksi,Puisi,2013
+1187,Mastering Chemistry,Sari Gunawan,Fiksi,Drama,2012
+1188,The Future of VR,Umar Hidayat,Historis,Sejarah Lokal,1996
+1189,The History of Discovery,Hadi Pratama,Sains,Kimia,2012
+1190,The Great Art,Putri Prasetyo,Teknologi,Pemrograman,2004
+1191,A Journey through the World,Citra Kurniawan,Historis,Sejarah Dunia,1995
+1192,The Modern Mystery,Joko Wibowo,Teknologi,AI,2005
+1193,Mastering Chemistry,Gita Setiawan,Fiksi,Novel,1991
+1194,Exploring Society,Lina Ramadhan,Historis,Biografi,2013
+1195,The Ancient Art,Sari Putra,Historis,Sejarah Dunia,2004
+1196,Mastering Chemistry,Oka Lestari,Seni,Seni Rupa,2000
+1197,Understanding Power,Sari Ramadhan,Historis,Biografi,2010
+1198,The Innovative History,Sari Yulianto,Teknologi,AI,2016
+1199,The Science of Quantum Mechanics,Kiki Hidayat,Teknologi,AI,1993
+1200,The History of War,Kiki Nugroho,Sains,Biologi,2016
+1201,The Art of Programming,Rina Prasetyo,Seni,Seni Rupa,1991
+1202,The Art of Painting,Dewi Santoso,Historis,Biografi,2005
+1203,The Future of IoT,Budi Lestari,Teknologi,AI,2003
+1204,The Art of Painting,Umar Wibowo,Historis,Sejarah Lokal,2007
+1205,The History of War,Dewi Halim,Sains,Matematika,1994
+1206,The History of War,Putri Wibowo,Teknologi,Keamanan Siber,2006
+1207,Mastering Biology,Dewi Halim,Sains,Matematika,1998
+1208,The History of Discovery,Dewi Halim,Teknologi,Jaringan,1993
+1209,The Science of Evolution,Nina Prasetyo,Seni,Seni Rupa,2019
+1210,Understanding Courage,Tina Lestari,Historis,Sejarah Dunia,2021
+1211,The Future of AI,Kiki Fauzi,Fiksi,Cerita Pendek,2002
+1212,The Art of Painting,Joko Sukma,Fiksi,Novel,2023
+1213,Mastering Mathematics,Gita Santoso,Seni,Teater,2022
+1214,The History of War,Maya Setiawan,Historis,Biografi,2006
+1215,The Art of Programming,Dewi Halim,Sains,Kimia,2002
+1216,Exploring Nature,Hadi Santoso,Seni,Musik,1990
+1217,The Future of IoT,Budi Setiawan,Fiksi,Novel,2001
+1218,The History of Revolution,Umar Nugroho,Fiksi,Drama,1995
+1219,Understanding Power,Budi Lestari,Teknologi,Keamanan Siber,1996
+1220,The Future of IoT,Budi Pratama,Sains,Matematika,2006
+1221,The World of Ecology,Sari Gunawan,Teknologi,Pemrograman,1993
+1222,The World of Medicine,Sari Ramadhan,Fiksi,Cerita Pendek,2015
+1223,The Science of Quantum Mechanics,Maya Putra,Historis,Biografi,1992
+1224,A Journey through the City,Sari Gunawan,Seni,Seni Rupa,2020
+1225,A Journey through the World,Eka Putra,Teknologi,AI,1996
+1226,The Art of Writing,Oka Prasetyo,Teknologi,Jaringan,2022
+1227,The Innovative Adventure,Nina Gunawan,Historis,Sejarah Dunia,2005
+1228,The History of Discovery,Lina Kusuma,Teknologi,AI,2001
+1229,A Journey through the Jungle,Budi Wijaya,Seni,Teater,2002
+1230,Exploring Technology,Hadi Fauzi,Teknologi,Jaringan,2008
+1231,Mastering Physics,Joko Sukma,Fiksi,Puisi,2001
+1232,Understanding Love,Kiki Sukma,Fiksi,Cerita Pendek,1999
+1233,The History of Discovery,Nina Kurniawan,Fiksi,Cerita Pendek,2015
+1234,The Art of Programming,Hadi Gunawan,Fiksi,Drama,2005
+1235,Mastering Chemistry,Kiki Fauzi,Fiksi,Drama,1995
+1236,The World of Medicine,Agus Sukma,Fiksi,Cerita Pendek,2011
+1237,A Journey through the City,Kiki Santoso,Fiksi,Novel,2014
+1238,The Future of IoT,Maya Ramadhan,Fiksi,Novel,1991
+1239,The World of Medicine,Agus Prasetyo,Sains,Kimia,2015
+1240,Exploring Nature,Fajar Prasetyo,Seni,Seni Rupa,1993
+1241,The World of Engineering,Dewi Wibowo,Seni,Fotografi,1994
+1242,The Science of Gravity,Hadi Putra,Historis,Sejarah Dunia,2007
+1243,The History of War,Sari Sari,Teknologi,Jaringan,2006
+1244,The Innovative Adventure,Tina Wibowo,Fiksi,Novel,1998
+1245,Mastering Physics,Lina Wijaya,Sains,Fisika,2004
+1246,A Journey through the Universe,Kiki Setiawan,Sains,Kimia,2023
+1247,The Future of IoT,Lina Yulianto,Teknologi,Keamanan Siber,2021
+1248,The World of Engineering,Umar Setiawan,Sains,Fisika,2004
+1249,A Journey through the Jungle,Eka Fauzi,Sains,Biologi,1992
+1250,The Mysterious Science,Fajar Hidayat,Seni,Musik,2016
+1251,The Future of Blockchain,Dewi Santoso,Seni,Musik,2002
+1252,Understanding Power,Rina Putra,Seni,Fotografi,2013
+1253,The Art of Cooking,Umar Kurniawan,Fiksi,Puisi,2016
+1254,The Great History,Nina Prasetyo,Teknologi,Jaringan,2006
+1255,The Future of VR,Joko Prasetyo,Teknologi,AI,2012
+1256,A Journey through the Universe,Citra Kusuma,Sains,Kimia,2020
+1257,A Journey through the Universe,Putri Sukma,Seni,Fotografi,1990
+1258,The World of Engineering,Indah Ramadhan,Historis,Sejarah Lokal,2012
+1259,The Future of Blockchain,Oka Ramadhan,Sains,Matematika,1990
+1260,Mastering Biology,Hadi Saputra,Teknologi,Jaringan,2019
+1261,The Science of Relativity,Hadi Wibowo,Sains,Fisika,1995
+1262,A Journey through the Jungle,Hadi Hidayat,Sains,Biologi,2006
+1263,The Art of Painting,Lina Gunawan,Historis,Biografi,2010
+1264,The Science of Quantum Mechanics,Maya Lestari,Sains,Biologi,2019
+1265,The History of Discovery,Indah Halim,Fiksi,Puisi,2011
+1266,The Science of Evolution,Dewi Nugroho,Teknologi,Jaringan,2005
+1267,Mastering Chemistry,Joko Nugroho,Seni,Fotografi,1993
+1268,Understanding Power,Lina Santoso,Sains,Fisika,2016
+1269,The Future of VR,Oka Kusuma,Fiksi,Drama,2000
+1270,The Future of VR,Umar Ramadhan,Teknologi,AI,2007
+1271,The Future of Blockchain,Fajar Ramadhan,Sains,Biologi,1996
+1272,The Science of Gravity,Hadi Hidayat,Fiksi,Novel,2008
+1273,Understanding Love,Sari Lestari,Sains,Kimia,2019
+1274,The World of Ecology,Eka Wibowo,Seni,Fotografi,1990
+1275,The History of War,Sari Yulianto,Fiksi,Cerita Pendek,2002
+1276,Mastering Chemistry,Sari Nugroho,Sains,Matematika,2016
+1277,Understanding Power,Budi Kurniawan,Historis,Biografi,1991
+1278,Exploring Technology,Nina Wibowo,Historis,Biografi,2021
+1279,The Ancient Adventure,Maya Santoso,Teknologi,AI,1997
+1280,The Science of Relativity,Budi Kurniawan,Historis,Sejarah Dunia,2023
+1281,The Science of Relativity,Indah Prasetyo,Fiksi,Drama,1997
+1282,The Great History,Budi Wijaya,Sains,Kimia,2012
+1283,The World of Ecology,Eka Nugroho,Historis,Sejarah Lokal,1992
+1284,The World of Engineering,Rina Kusuma,Sains,Matematika,2018
+1285,The World of Medicine,Gita Fauzi,Teknologi,Keamanan Siber,2021
+1286,The Future of AI,Gita Setiawan,Seni,Musik,2021
+1287,The Innovative Art,Citra Sukma,Historis,Biografi,1993
+1288,The History of War,Sari Ramadhan,Teknologi,AI,2002
+1289,The Art of Programming,Rina Saputra,Historis,Sejarah Lokal,2000
+1290,The History of Discovery,Lina Sukma,Seni,Fotografi,2018
+1291,The Ancient History,Indah Kurniawan,Sains,Fisika,2022
+1292,A Journey through the City,Citra Prasetyo,Seni,Musik,2015
+1293,A Journey through the Universe,Lina Putra,Seni,Musik,2016
+1294,The Future of AI,Maya Sukma,Fiksi,Cerita Pendek,2022
+1295,Mastering Mathematics,Maya Fauzi,Fiksi,Cerita Pendek,2017
+1296,The Science of Relativity,Tina Pratama,Historis,Biografi,1997
+1297,The History of Revolution,Budi Hidayat,Sains,Matematika,2002
+1298,A Journey through the Universe,Agus Saputra,Teknologi,Jaringan,2003
+1299,The Art of Writing,Joko Sari,Seni,Musik,2007
